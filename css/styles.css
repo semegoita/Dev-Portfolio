@@ -105,8 +105,8 @@ background: #E24040;
 }
 
 .copyright {
-    color: #6D6D6D;
-    background: #E9E9E9;
+    color: white;
+    background:black;
     padding: 20px 0;
 }
 
@@ -131,11 +131,11 @@ margin: 4px;
 .header {
     position: fixed;
     width: 100%;
-    background: #CC4646;
+    background: black;
     z-index: 50;
     border-radius: 0;
     top: 0px;
-    border-bottom: 1px solid #F57676;
+    border-bottom: 1px solid black;
 }
 
 .navbar-inverse .navbar-toggle {
@@ -147,7 +147,7 @@ margin: 0;
 background: transparent !important;
 }
     .navbar-inverse .navbar-toggle .icon-bar {
-        /*background-color: #CC4646;*/;
+        /*background-color: #CC4646;*/
     }
 
     .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
